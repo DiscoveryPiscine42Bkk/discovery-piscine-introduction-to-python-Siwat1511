@@ -1,6 +1,7 @@
-password = int(input("what pw"))
-if password == int("Python is awesome") :
-print("ACCESS GRANTED")
+password = (input(" "))
+correct_password = ("Python is awesome")
+if password == correct_password :
+ print("ACCESS GRANTED.")
 else :
-print("ACCESS DENIED.")
+ print("ACCESS DENIED.")
 
